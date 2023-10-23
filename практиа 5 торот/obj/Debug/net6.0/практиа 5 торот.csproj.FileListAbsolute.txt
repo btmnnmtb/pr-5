@@ -1,0 +1,14 @@
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\bin\Debug\net6.0\практиа 5 торот.exe
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\bin\Debug\net6.0\практиа 5 торот.deps.json
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\bin\Debug\net6.0\практиа 5 торот.runtimeconfig.json
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\bin\Debug\net6.0\практиа 5 торот.dll
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\bin\Debug\net6.0\практиа 5 торот.pdb
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\obj\Debug\net6.0\практиа 5 торот.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\obj\Debug\net6.0\практиа 5 торот.AssemblyInfoInputs.cache
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\obj\Debug\net6.0\практиа 5 торот.AssemblyInfo.cs
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\obj\Debug\net6.0\практиа 5 торот.csproj.CoreCompileInputs.cache
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\obj\Debug\net6.0\практиа 5 торот.dll
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\obj\Debug\net6.0\refint\практиа 5 торот.dll
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\obj\Debug\net6.0\практиа 5 торот.pdb
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\obj\Debug\net6.0\практиа 5 торот.genruntimeconfig.cache
+C:\Users\kvash\source\repos\практиа 5 торот\практиа 5 торот\obj\Debug\net6.0\ref\практиа 5 торот.dll
